@@ -1,0 +1,9 @@
+Nhập hệ số a1: 1
+Nhập hệ số b1: 2
+Nhập hệ số c1: 3
+Nhập hệ số a2: 4
+Nhập hệ số b2: 5
+Nhập hệ số c2: 6
+Kết quả:
+x = -1.0
+y = 2.0

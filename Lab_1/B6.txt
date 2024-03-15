@@ -1,0 +1,11 @@
+Nhập tọa độ thứ 1 của vecto a: 1
+Nhập tọa độ thứ 2 của vecto a: 2
+Nhập tọa độ thứ 3 của vecto a: 3
+Nhập tọa độ thứ 1 của vecto b: 4
+Nhập tọa độ thứ 2 của vecto b: 5
+Nhập tọa độ thứ 3 của vecto b: 6
+Kết quả phép cộng a + b: [5.0, 7.0, 9.0]
+Kết quả phép trừ a - b: [-3.0, -3.0, -3.0]
+Độ dài của vecto a: 3.7416573867739413
+Độ dài của vecto b: 8.774964387392123
+Cosin góc hợp giữa hai vecto a và b: 0.97

@@ -1,0 +1,3 @@
+Nhập giá trị của x: 12
+Nhập giá trị của z: 24
+Giá trị của biểu thức f(x, z) là: 1.57

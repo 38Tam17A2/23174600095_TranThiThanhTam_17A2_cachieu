@@ -1,0 +1,5 @@
+Nhập độ dài cạnh đáy của hình chóp: 20
+Nhập chiều cao của hình chóp: 12
+Diện tích xung quanh của hình chóp là: 480.0
+Diện tích toàn phần của hình chóp là: 880.0
+Thể tích của hình chóp là: 1600.0

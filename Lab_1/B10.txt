@@ -1,0 +1,4 @@
+Nhập số lượng bóng mà bạn muốn tìm: 12
+Tât cả là bi đỏ: 0.0000
+Ít nhất một viên bi xanh: 0.9862
+Đúng hai viên bi là vàng: 0.0857
