@@ -1,0 +1,11 @@
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+odd_numbers = list(filter(lambda x: x % 2 != 0, numbers))
+print("Số lẻ:", odd_numbers)
+even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
+print("Số chẵn:", even_numbers)
+cubed_numbers = list(map(lambda x: x ** 3, numbers))
+print("Lập phương:", cubed_numbers)
+even_cubed_numbers = list(map(lambda x: x ** 3, filter(lambda x: x % 2 == 0, numbers)))
+print("Lập phương của số chẵn:", even_cubed_numbers)
+odd_squared_numbers = list(map(lambda x: x ** 2, filter(lambda x: x % 2 != 0, numbers)))
+print("Bình phương của số lẻ:", odd_squared_numbers)
