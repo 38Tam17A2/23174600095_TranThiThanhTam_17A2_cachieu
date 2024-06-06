@@ -1,0 +1,19 @@
+Bài 1: đề bài yêu cầu xây dựng hàm
+Điểm: 0.5
+
+Bài 2: đề bài yêu cầu xây dựng hàm
+Điểm: 1.0
+
+Bài 3: đề bài yêu cầu xây dựng hàm
+Điểm: 1.0
+
+Bài 4: đề bài yêu cầu xây dựng hàm
+Điểm: 0.5
+
+Bài 5: đề bài yêu cầu xây dựng hàm
+Điểm: 1.0 
+
+Bài 6: đúng
+Điểm: 5.0
+
+Tổng điểm bài tập lab 8: 9/13 -> 7.0
